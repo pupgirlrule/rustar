@@ -136,7 +136,7 @@ Brought to you by elizabeth
        height="140"
        style="border-radius:50%;"/>
 </a>  
-<p align="center"><sub><a href="https://github.com/pupgirlrule">pupgirlrule/a></sub></p>
+<p align="center"><sub><a href="https://github.com/pupgirlrule">pupgirlrule</a></sub></p>
 
 </td>
 </tr>
