@@ -125,7 +125,7 @@ this project uses the MIT License, in full effect. give me credit via name/usern
 <tr>
 <td align="right">
 
-Brought to you by your favourite puppygirl **Liz** 🐾  
+Brought to you by elizabeth  
 
 </td>
 <td>
@@ -136,7 +136,7 @@ Brought to you by your favourite puppygirl **Liz** 🐾
        height="140"
        style="border-radius:50%;"/>
 </a>  
-<p align="center"><sub><a href="https://github.com/x-nbnv">x-nbnv</a></sub></p>
+<p align="center"><sub><a href="https://github.com/pupgirlrule">pupgirlrule/a></sub></p>
 
 </td>
 </tr>
